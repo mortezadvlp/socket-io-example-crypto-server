@@ -14,3 +14,9 @@ Client side is in https://github.com/mortezadvlp/socket-io-example-crypto-client
 
 Collected Server and Client is in https://github.com/mortezadvlp/socket-io-example-crypto
 
+## Dependencies
+For running without error, install following dependencies
+
+`npm install express`
+
+`npm install socket.io`
